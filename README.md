@@ -4,4 +4,4 @@ Be like stem cells, differentiate yourself from others
 + **I am an MSc Bioinformatics student**
 +  My email id is : isha.barve0@gmail.com 
 +  My _Slack handle_ is @Isha 
-+  ***I am really interested in genomics , cheoinformatics, drug design , cancer biology and data analytics.***
++  ***I am really interested in genomics , chemoinformatics, drug design , cancer biology and data analytics.***
